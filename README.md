@@ -1,2 +1,2 @@
-# img-html-BLUE
-this work is done by html and css.
+ CLICK HERE TO VIEW THE LAYOUT:
+ https://mahmudur99.github.io/img-html-BLUE/. 
